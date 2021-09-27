@@ -14,6 +14,9 @@ The following links are projects frameworks I use for trainings. Most of them ar
  * [Initiation à la programmation (Python)](https://github.com/darko-itpro/formation-initiation_programmation_Python) (fr) : base de projet pour une initiation à la porgrammation.
  * [Python, les fondamentaux](https://github.com/darko-itpro/formation-Python_fondamentaux) (fr)
 
+## Links
+[Ressources pour les formations](https://drive.google.com/drive/folders/0B0VMWUAuE_ZFU0ZrY2hDUC1XTlU?resourcekey=0-vOw0a3-hysmCsuKOwi3qkA&usp=sharing)
+
 <!--
 **darko-itpro/darko-itpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
