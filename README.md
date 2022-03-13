@@ -5,17 +5,19 @@ Or at least my work as a developper.
 I just recently discovered this page so I am setting this up a little bit. I'll set it better soon with really a lot about me.
 
 Meanwhile:
-- 🔭 I’m currently working as a trainer specialized in Python and Object Oreinted Programming.
-- 💬 Ask me about Python, Object Oriented Programming and Scratch…
+- 🔭 Part of my work is to be a trainer specialized in Python and Object Oreinted Programming.
+- 💬 Ask me about Python, Object Oriented Programming. You can ask me about Scratch too…
 - ⚡ Fun fact: Han really shot first !
 
 ## Links to my training materlial 👨‍🏫
 The following links are projects frameworks I use for trainings. Most of them are in french as I work in France. The description is according to the audience.
  * [Initiation à la programmation (Python)](https://github.com/darko-itpro/formation-initiation_programmation_Python) (fr) : base de projet pour une initiation à la porgrammation.
  * [Python, les fondamentaux](https://github.com/darko-itpro/formation-Python_fondamentaux) (fr)
+ * [Python, Data Science](https://github.com/darko-itpro/python-data_science) (fr) est le support d'introduction à Numpy et Pandas avec une pointe de Matplotlib
+ * Python, perfectionnement (fr) Coming Soon 😉
 
 ## Links
-[Ressources pour les formations](https://drive.google.com/drive/folders/0B0VMWUAuE_ZFU0ZrY2hDUC1XTlU?resourcekey=0-vOw0a3-hysmCsuKOwi3qkA&usp=sharing)
+[Ressources pour les formations](https://bit.ly/3uh2MEQ)
 
 <!--
 **darko-itpro/darko-itpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
