@@ -14,6 +14,7 @@ The following links are projects frameworks I use for trainings. Most of them ar
  * [Initiation à la programmation (Python)](https://github.com/darko-itpro/formation-initiation_programmation_Python) (fr) : base de projet pour une initiation à la porgrammation.
  * [Python, les fondamentaux](https://github.com/darko-itpro/formation-Python_fondamentaux) (fr)
  * [Python, Data Science](https://github.com/darko-itpro/python-data_science) (fr) est le support d'introduction à Numpy et Pandas avec une pointe de Matplotlib
+ * [Les Design Patterns en Python](https://github.com/darko-itpro/formation_python_design_patterns) (fr) est un support sur la présentation des design patterns en Python
  * Python, perfectionnement (fr) Coming Soon 😉
 
 ## Links
