@@ -11,6 +11,7 @@ Meanwhile:
 
 ## Links to my training materlial 👨‍🏫
 The following links are projects frameworks I use for trainings. Most of them are in french as I work in France. The description is according to the audience.
+ * [Ressources pour formation Python](https://github.com/darko-itpro/formation_python_ressources) (fr)
  * [Initiation à la programmation (Python)](https://github.com/darko-itpro/formation-initiation_programmation_Python) (fr) : base de projet pour une initiation à la porgrammation.
  * [Python, les fondamentaux](https://github.com/darko-itpro/formation-Python_fondamentaux) (fr)
  * [Python, Data Science](https://github.com/darko-itpro/python-data_science) (fr) est le support d'introduction à Numpy et Pandas avec une pointe de Matplotlib
