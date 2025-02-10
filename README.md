@@ -20,6 +20,7 @@ The following links are projects frameworks I use for trainings. Most of them ar
  * [Python, perfectionnement - Généralités](https://github.com/darko-itpro/formation-Python_perfectionnement_bases) (fr) : Premier pas vers le perfectionnement.
  * [Python, Data Science](https://github.com/darko-itpro/python-data_science) (fr) est le support d'introduction à Numpy et Pandas avec une pointe de Matplotlib.
  * [Les Design Patterns en Python](https://github.com/darko-itpro/formation_python_design_patterns) (fr) est un support sur la présentation des design patterns en Python.
+ * [Pytest](https://github.com/darko-itpro/formation-Pytest) (fr) est une base pour découvrir Pytest
  * [Python, le packaging](https://github.com/darko-itpro/pyschool-lib) (fr) est un projet d'illustration de packaging mais aussi une lib de support pour les exercices.
 
 ### Django
