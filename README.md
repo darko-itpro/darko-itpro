@@ -11,18 +11,19 @@ Meanwhile:
 
 ## Liens vers mes supports de formation 👨🏻‍🏫 🇫🇷
 ### Python, les bases
- * [Initiation à la programmation (Python)](https://github.com/darko-itpro/formation-initiation_programmation_Python) (fr) : base de projet pour une initiation à la porgrammation.
- * [Python, les fondamentaux](https://github.com/darko-itpro/formation-Python_fondamentaux) (fr) : base de projet pour une formation sur les fondamentaux Python.
+ * [Initiation à la programmation (Python)](https://github.com/darko-itpro/formation-initiation_programmation_Python) : base de projet pour une initiation à la porgrammation.
+ * [Python, les fondamentaux](https://github.com/darko-itpro/formation-Python_fondamentaux) : base de projet pour une formation sur les fondamentaux Python.
 
 ### Python, avancé
- * [Python, perfectionnement - Généralités](https://github.com/darko-itpro/formation-Python_perfectionnement_bases) (fr) : Premier pas vers le perfectionnement.
- * [Python, Data Science](https://github.com/darko-itpro/python-data_science) (fr) est le support d'introduction à Numpy et Pandas avec une pointe de Matplotlib.
- * [Les Design Patterns en Python](https://github.com/darko-itpro/formation_python_design_patterns) (fr) est un support sur la présentation des design patterns en Python.
- * [Pytest](https://github.com/darko-itpro/formation-Pytest) (fr) est une base pour découvrir Pytest
- * [Python, le packaging](https://github.com/darko-itpro/pyschool-lib) (fr) est un projet d'illustration de packaging mais aussi une lib de support pour les exercices.
+ * [Python, perfectionnement - Généralités](https://github.com/darko-itpro/formation-Python_perfectionnement_bases) : Premier pas vers le perfectionnement.
+ * [Python, Data Science](https://github.com/darko-itpro/python-data_science) est le support d'introduction à Numpy et Pandas avec une pointe de Matplotlib.
+ * [Les frameworks web en Python](https://github.com/darko-itpro/formation-Intro_web_python) est une introduction aux frameworks web Python.
+ * [Les Design Patterns en Python](https://github.com/darko-itpro/formation_python_design_patterns) (est un support sur la présentation des design patterns en Python.
+ * [Pytest](https://github.com/darko-itpro/formation-Pytest) est une base pour découvrir Pytest
+ * [Python, le packaging](https://github.com/darko-itpro/pyschool-lib) est un projet d'illustration de packaging mais aussi une lib de support pour les exercices.
 
 ### Django
- * [Django, les fondamentaux](https://github.com/darko-itpro/formation-Django_fondamentaux) (fr) est le matériel pour travailler sur un projet Django.
+ * [Django, les fondamentaux](https://github.com/darko-itpro/formation-Django_fondamentaux) est le matériel pour travailler sur un projet Django.
 
 
 ## Links to my training materlial 👨🏻‍🏫 🇬🇧
