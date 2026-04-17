@@ -9,6 +9,10 @@ Meanwhile:
 - 💬 Ask me about Python, Object Oriented Programming. You can ask me about Scratch too…
 - ⚡ Fun fact: Han really shot first !
 
+## Mes pésentations 🗣️ 🇫🇷
+Les présentations avec slidev, un lien vers l'hébergment gihub pages est disponible dans le projet.
+ * [Nous voulons toujours des chevaux plus rapides](https://github.com/darko-itpro/slidev-chevaux_plus_rapides) présentation au meetup Django Paris en avril 2026.
+
 ## Liens vers mes supports de formation 👨🏻‍🏫 🇫🇷
 ### Python, les bases
  * [Initiation à la programmation (Python)](https://github.com/darko-itpro/formation-initiation_programmation_Python) : base de projet pour une initiation à la porgrammation.
