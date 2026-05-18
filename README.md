@@ -1,13 +1,10 @@
-# All about me !
+# My projects highlights !
 
-Or at least my work as a developper.
+This page is meant to provide a quick-access to some of my projects and especially those I use for training material.
 
-I just recently discovered this page so I am setting this up a little bit. I'll set it better soon with really a lot about me. Yes, I know I wrote this 3 years ago… 😓
+A better presentation is available on my [github page](https://darko-itpro.github.io/) <img src="https://cdn.simpleicons.org/github" alt="GitHub Icon" width="12" height="12" />
 
-Meanwhile:
-- 🔭 Part of my work is to be a trainer specialized in Python and Object Oreinted Programming. But also in Django and data science using Python.
-- 💬 Ask me about Python, Object Oriented Programming. You can ask me about Scratch too…
-- ⚡ Fun fact: Han really shot first !
+I post content on my website in french 🇫🇷 [La .Taverne de l'Invisible](https://taverneinvisible.net/). I am working on an english version.
 
 ## Mes pésentations 🗣️ 🇫🇷
 Les présentations avec slidev, un lien vers l'hébergment gihub pages est disponible dans le projet.
