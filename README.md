@@ -36,9 +36,6 @@ The following links are projects frameworks I use as training material.
  * [Python, advanced - Generalities](https://github.com/darko-itpro/formation-Python_perfectionnement_bases): First step toward advanced usage of Python (main link is in french, the project is in french and english).
  * [Python, Data Science](https://github.com/darko-itpro/Python-data_science-en): is the training material for an introduction to Numpy, Pandas and Matplotlib.
 
-## Links
-[Ressources pour les formations](https://bit.ly/3uh2MEQ)
-
 <!--
 **darko-itpro/darko-itpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
